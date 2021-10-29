@@ -1,0 +1,19 @@
+/*
+ Theme Name:   CeciEstMonThemeEnfant
+ Description:  Cect est une description de mon theme enfant
+ Author:       Hatmos
+ Template:     twentytwenty
+ Version:      1.24.42.25.1
+*/
+
+.singular h1{
+    color: blueviolet;
+}
+.singular {
+    background-color: aquamarine;
+
+}
+
+.newtemplate{
+    background-color: brown;
+}
